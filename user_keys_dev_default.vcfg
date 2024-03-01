@@ -59,7 +59,7 @@
 		"MOUSE2" 		"+attack2"
 		"MOUSE3"		"player_ping"
 		"MOUSE4" 		"+voicerecord"
-		"DEL" 			"mute"
+		"DEL" 			"sellbackall"
 	}
 	
 	"analogbindings"
